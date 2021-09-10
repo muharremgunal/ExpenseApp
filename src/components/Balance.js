@@ -23,7 +23,7 @@ const Balance = () => {
 
   useEffect(() => {
     dispatch(fetchConvertedCurrency());
-  }, []);
+  }, [dispatch]);
 
   return (
     <>
