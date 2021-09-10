@@ -24,7 +24,7 @@ This project is an exapmle expense project for interview purposes.
 - Material UI
 - CSS
 
-### ✨ [Live Demo](https://bookstore-react-redux.herokuapp.com)
+### ✨ [Live Demo](https://suspicious-euclid-31eacd.netlify.app)
 
 ## Usage
 
