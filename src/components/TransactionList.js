@@ -53,6 +53,8 @@ const TransactionList = () => {
             }
             if (filteredState === "income" && item.amount > 0) {
               return item;
+            } else {
+              return undefined;
             }
           })
           .map((transaction) => (

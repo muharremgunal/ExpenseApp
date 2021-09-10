@@ -47,9 +47,9 @@ $ npm run start
 
 ## Authors
 
-👤 **Y.Emre AYBEY**
+👤 **Muharrem Gunal**
 
-- Github: [@YemreAybey](https://github.com/muharremgunal)
+- Github: [@MuharremGunal](https://github.com/muharremgunal)
 
 ## 🤝 Contributing
 
